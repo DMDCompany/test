@@ -1,2 +1,5 @@
 print("hello world")
 print("hello everybody");
+var name;
+write(&name);
+print(name);
